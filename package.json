@@ -1,0 +1,25 @@
+{
+  "name": "image-processing-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon App/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hassaanali723/Image-Processing-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hassaanali723/Image-Processing-API/issues"
+  },
+  "homepage": "https://github.com/hassaanali723/Image-Processing-API#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
